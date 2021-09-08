@@ -1,0 +1,38 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net5.0</TargetFramework>
+    <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+    <PackageId>Rexer</PackageId>
+    <Authors>Wizard2D</Authors>
+    <Company>BitterTech</Company>
+    <Description>Rexer is an awesome regex lexer library that fulfills your needs easily!
+It's also open-source so if you ever find a bug, you can fix it(and make a pull request on the Github.)
+
+The functions and classes are all well documented so you will not have much trouble settings things up.
+Alternatively there is a test program in the Github to lead you in the right direction.
+
+Website + Documentation Coming Soon.</Description>
+    <Copyright>BitterTech© 2021</Copyright>
+    <PackageLicenseExpression>GPL-3.0-or-later</PackageLicenseExpression>
+    <PackageIcon>rexerlogo.png</PackageIcon>
+    <PackageIconUrl />
+    <RepositoryUrl>https://github.com/Wizard2D/Rexer</RepositoryUrl>
+    <RepositoryType>Github</RepositoryType>
+    <PackageTags>lexer,library,C#,rexer,Rexer,Lexer,Library,c#,regex,Regex,regular expressions,Regular expressions,Regular Expressions,lexicalanalysis, Lexical Analysis</PackageTags>
+    <PackageReleaseNotes>v1.0.0
+
+This is the first version of Rexer and it includes the lexer and the rest of the classes.
+
+Documentation should come very soon.</PackageReleaseNotes>
+    <NeutralLanguage>en</NeutralLanguage>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="..\..\..\..\..\Lia's Mansion\Documents\rexerlogo.png">
+      <Pack>True</Pack>
+      <PackagePath></PackagePath>
+    </None>
+  </ItemGroup>
+
+</Project>

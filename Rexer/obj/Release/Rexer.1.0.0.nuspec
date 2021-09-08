@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Rexer</id>
+    <version>1.0.0</version>
+    <authors>Wizard2D</authors>
+    <license type="expression">GPL-3.0-or-later</license>
+    <licenseUrl>https://licenses.nuget.org/GPL-3.0-or-later</licenseUrl>
+    <icon>rexerlogo.png</icon>
+    <description>Rexer is an awesome regex lexer library that fulfills your needs easily!
+It's also open-source so if you ever find a bug, you can fix it(and make a pull request on the Github.)
+
+The functions and classes are all well documented so you will not have much trouble settings things up.
+Alternatively there is a test program in the Github to lead you in the right direction.
+
+Website + Documentation Coming Soon.</description>
+    <releaseNotes>v1.0.0
+
+This is the first version of Rexer and it includes the lexer and the rest of the classes.
+
+Documentation should come very soon.</releaseNotes>
+    <copyright>BitterTech© 2021</copyright>
+    <tags>lexer,library,C#,rexer,Rexer,Lexer,Library,c#,regex,Regex,regular expressions,Regular expressions,Regular Expressions,lexicalanalysis, Lexical Analysis</tags>
+    <repository type="Github" url="https://github.com/Wizard2D/Rexer" />
+    <dependencies>
+      <group targetFramework="net5.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\Lias Mansion\source\repos\Rexer\Rexer\bin\Release\net5.0\Rexer.dll" target="lib\net5.0\Rexer.dll" />
+    <file src="C:\Users\Lia's Mansion\Documents\rexerlogo.png" target="rexerlogo.png" />
+  </files>
+</package>

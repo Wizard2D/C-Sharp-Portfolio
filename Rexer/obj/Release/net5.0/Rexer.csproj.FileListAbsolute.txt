@@ -1,0 +1,12 @@
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\bin\Release\net5.0\Rexer.deps.json
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\bin\Release\net5.0\Rexer.dll
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\bin\Release\net5.0\ref\Rexer.dll
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\bin\Release\net5.0\Rexer.pdb
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.csproj.AssemblyReference.cache
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.AssemblyInfoInputs.cache
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.AssemblyInfo.cs
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.csproj.CoreCompileInputs.cache
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.dll
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\ref\Rexer.dll
+C:\Users\Lias Mansion\source\repos\Rexer\Rexer\obj\Release\net5.0\Rexer.pdb
